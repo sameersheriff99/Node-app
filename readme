@@ -1,1 +1,5 @@
-read
+Steps to run the project:
+1. Clone the github repository to your local
+2. Open the project in your IDE, open terminal
+3. Run npm install to install the dependencies
+4. run 'node server.js' to run the project
